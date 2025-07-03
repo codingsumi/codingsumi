@@ -12,7 +12,7 @@ I'm a passionate developer who loves building full-stack apps, solving problems,
 </p>
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codingsumi&show_icons=true&theme=radical)
 
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on: `Next With Python`
