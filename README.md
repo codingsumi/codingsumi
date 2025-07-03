@@ -22,8 +22,8 @@ I'm a passionate developer who loves building full-stack apps, solving problems,
 - ⚡ Fun fact: I can debug faster than I cook Maggi 😄
 
 ## 📌 Projects
-- 🎯 [Project One](https://github.com/codingsumi/next-with-python)
-- 🧠 [Project Two](https://github.com/codingsumi/python-api)
+- 🎯 [Next With Tailwing](https://github.com/codingsumi/next-with-python)
+- 🧠 [Python with Flask](https://github.com/codingsumi/python-api)
 
 ---
 
